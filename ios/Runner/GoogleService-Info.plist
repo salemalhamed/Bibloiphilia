@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>442542011429-d1jrdpdg5kk3tq0pvsll5j0g97muji2l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.442542011429-d1jrdpdg5kk3tq0pvsll5j0g97muji2l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAjzlg12glfP1ctbc-zAXJTXYFTG-xybS4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>442542011429</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.biblophila2</string>
+	<key>PROJECT_ID</key>
+	<string>bibloipilia2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bibloipilia2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:442542011429:ios:3edd38cc1cf0ac4c8dfbcc</string>
+</dict>
+</plist>
